@@ -1,4 +1,4 @@
-package dkit.oop;     // SOLUTION
+package org.example;     // SOLUTION
 
 //TODO
 // change Rectangle declaration so that Rectangle inherits from Shape

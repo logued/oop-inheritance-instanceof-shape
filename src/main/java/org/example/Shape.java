@@ -1,4 +1,4 @@
-package dkit.oop;
+package org.example;
 
 // Abstract class
 // If we identify that there are a number of types of objects that have
